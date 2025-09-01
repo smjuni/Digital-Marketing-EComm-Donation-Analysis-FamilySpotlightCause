@@ -37,7 +37,11 @@ Tableau: data visualization, parameters, calculated fields
 
 
 ## Results and Recommendations
+
+The donation frequency of Family Spotlight donations is closely dispersed, with yearly subscriptions bringing in the most revenue, $28.1K * 12mths ($338.3K over the year - the revenue only accounts for the first payments), and 73 donations.
   In general, the population responded to the family spotlight cause group best for LeadGen campaign types, with the highest average donation ($503). Retargeting, LeadGen and Engagement Campaign Types performed best for donation revenue. The campaign that resonated least with the family spotlight cause group was loyalty campaign type, with only 7% of the total donations and lowest donation revenue ($5.8K) for the April to July time period. 
+
+The audiences that the family spotlight cause group most resonated with is cart-abandons, Pet owners and vet-students by donation count and cart-abandons, Pet-owners and Philathropists for revenue volume.
 
 The audiences who have the highest average donations to family spotlight causes are people who have visited the Shelter within the last 3 months and the philanthropist audience comprised of regular, high-income donors. 
 
