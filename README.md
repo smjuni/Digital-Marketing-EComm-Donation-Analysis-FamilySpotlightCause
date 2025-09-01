@@ -1,11 +1,12 @@
 # Digital-Marketing-EComm-Donation-Analysis-FamilySpotlightCause
 An animal shelter charity needs has an influx of litters and needs marketing efforts to support them.
 
-# Executive Summary:
+(WIP)
+
+## Executive Summary:
  A animal care charity is planning their next marketing campaign and needs to know what campaign types and creatives perform the best overall and especially with Family Spotlight cause to detemine where the advertising spend should be focused. Using Python and Tableau I extracted the data, deconstructed it into separate causes, joined it back to the marketing campaign data and visualized it in a dashboard.
 
-##Recommendations:
-### Family Spotlight:
+### Recommendations:
 
 1. Family Spotlight donations have not gained as much traction with Loyalty campaign types, and considering the focus on this cause group, I would recommend testing new creatives/messaging within the loyalty campaign to appeal to the family spotlight donors. Alternatively, advertising spend on this campaign could be diverted to Retargeting, Conversion and Engagement campaigns, which attracted more Family Spotlight donations. Because the highest average donations come from people who have visited the shelter within the last 3 months, I would recommend a campaign geared towards increasing shelter visits.
 2. The creatives that drove the most donation revenue for Family spotlight causes were the "Kitty" Display ads (15K), "Smile" Display and "Cuddles" display.
@@ -36,7 +37,6 @@ Tableau: data visualization, parameters, calculated fields
 
 
 ## Results and Recommendations
-### Family Spotlight
   In general, the population responded to the family spotlight cause group best for LeadGen campaign types, with the highest average donation ($503). Retargeting, LeadGen and Engagement Campaign Types performed best for donation revenue. The campaign that resonated least with the family spotlight cause group was loyalty campaign type, with only 7% of the total donations and lowest donation revenue ($5.8K) for the April to July time period. 
 
 The audiences who have the highest average donations to family spotlight causes are people who have visited the Shelter within the last 3 months and the philanthropist audience comprised of regular, high-income donors. 
